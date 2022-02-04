@@ -91,3 +91,57 @@
 .description{
     text-align: left;
 }
+
+@media screen and (max-width: 500px) {
+    .places h1{
+        font-size: 25px;
+    }
+
+    .places article{
+        width: 350px;
+        height: 105vh;
+    }
+
+    .places article h2{
+        font-size: 25px;
+    }
+    
+    .price_by_night{
+        height: 50px;
+        font-size: 25px;
+        min-width: 50px;
+        right: 10px;
+        top: 10px;
+    }
+
+    section.places .amenities{
+        margin-left: 5px;
+    }
+}
+
+@media screen and (max-width: 320px) {
+    .places h1{
+        font-size: 25px;
+    }
+
+    .places article{
+        width: 250px;
+        height: 105vh;
+    }
+
+    .places article h2{
+        font-size: 25px;
+    }
+    
+    .price_by_night{
+        padding: 3px 3px;
+        height: 50px;
+        font-size: 20px;
+        min-width: 50px;
+        right: 10px;
+    }
+
+    section.places .amenities{
+        margin-left: 5px;
+    }
+}
