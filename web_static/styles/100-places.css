@@ -154,6 +154,7 @@ section.places .amenities ul li.liPower{
 section.places .reviews ul {
     margin: 0;
     padding: 0;
+    color: #484848;
 }
 
 section.places .reviews ul li h3 {
