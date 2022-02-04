@@ -94,7 +94,7 @@
 }
 
 section.places .amenities{
-    margin-top: 5px;
+    margin-top: 40px;
     display: block;
     text-align: left;
     position: absolute;
@@ -103,7 +103,8 @@ section.places .amenities{
 section.places .reviews{
     text-align: left;
     position: relative;
-    margin-top: 210px;
+    margin-top: 40px;
+    padding-top: 190px;
 }
 
 section.places .amenities h2, section.places .reviews h2{
