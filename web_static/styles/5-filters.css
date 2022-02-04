@@ -20,6 +20,7 @@
     margin-right: 30px;
     margin-left: auto;
     outline: none;
+    cursor: pointer;
 }
 
 .filters button:hover {
